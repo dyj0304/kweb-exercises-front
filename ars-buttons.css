@@ -1,0 +1,15 @@
+.number{
+    width: 50px;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    margin: 0 10px;
+    border: 1px solid;
+    border-radius: 25px;
+    background-color: pink;
+    display: inline-block;
+}
+
+.numbers{
+    margin: 20px 0;
+    text-align: center;
+}
