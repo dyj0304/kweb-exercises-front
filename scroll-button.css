@@ -1,0 +1,23 @@
+#scroll-button{
+    position : fixed;
+    bottom :20px;
+    right : 20px;
+    width : 35px;
+    color : white;
+    text-align : center;
+    background-color: darkblue; 
+    border-radius : 15px;
+
+}
+
+#button_up{
+    height : 30px;
+    color : white;
+}
+
+#button_down{
+    height : 30px;
+    border-top : 2px solid white;
+    color : white;
+}
+
